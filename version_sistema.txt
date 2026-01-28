@@ -1,2 +1,2 @@
-2.4
+2.5
 https://github.com/davidfranca9/Launcher-System/releases/download/SISTEMA/update.zip
